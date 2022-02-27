@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "native-app",
+    "name": "todo list",
     "slug": "native-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/Ewowers/todo-list"
   }
 }
